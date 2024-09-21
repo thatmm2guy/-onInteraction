@@ -1,0 +1,41 @@
+$if[$message==Delta1]
+$ephemeral
+$title[Delta Executor]
+$description[<:android:1276240372611420231> Android
+[**Click me to Download Delta Executor!** **Offical**\](https://www.mediafire.com/file/qfjvdi10yw05a77/Delta-2.642.635.apk/file)
+
+<:Apple:1279228754941710407> IOS
+[**Click me to Download Delta Executor!** **Offical**\](https://www.mediafire.com/file/45hxgvuc1zn3aw8/Delta-2.642.637.ipa/file)
+$footerIcon[$authorAvatar]
+$footer[$username Requested Executor Version Latest]]
+$thumbnail[https://media.discordapp.net/attachments/1271671406559629383/1281256538551615488/1725545735372.png?ex=66db0ea3&is=66d9bd23&hm=706b0f0289bbdfa27dd5f191cdb4f5432e4b1ee9b5884b3d49a2b9dbdbe4dad4&]
+$endif
+$removeComponent[Executor1]
+$if[$message==Fluxus2]
+$ephemeral
+$title[Fluxus Executor **Updated Recently**]
+$description[<:android:1276240372611420231> Android Fluxus 64bits
+[**Click To Download Fluxus 64bits Executor** **UnOffical 64bits!**\](https://www.mediafire.com/file/1qll8g3wuqollri/FLUX+executor(moew+vers)+64bit.apk/file)
+
+<:android:1276240372611420231> Android
+Fluxus 32Bits
+[**Click Me To Download Fluxus 32bits Executor** **Unoffical 32bits!**\](https://www.mediafire.com/file/i7kayjtxei75nv5/Flux+(meow+vers)32bit.apk/file)
+$footerIcon[$authorAvatar]
+$footer[$username Requested Executor Version Latest]]
+$thumbnail[https://media.discordapp.net/attachments/1271671406559629383/1281256538551615488/1725545735372.png?ex=66db0ea3&is=66d9bd23&hm=706b0f0289bbdfa27dd5f191cdb4f5432e4b1ee9b5884b3d49a2b9dbdbe4dad4&]
+$endif
+$removeComponent[Executor1]
+$if[$message==Codex3]
+$ephemeral
+$title[Codex Executor **Updated Recently**]
+$description[<:android:1276240372611420231> Android
+[**Click To Download Codex Executor** **Offical!**\](<https://www.mediafire.com/file_premium/tgh4ymcv0j524zh/Codex_2.642.apk/file>)]
+$endif
+$removeComponent[Executor1]
+$if[$message==Arceus4]
+$ephemeral
+$title[Arceus X Executor]
+$description[<:android:1276240372611420231> Android
+[**Click To Download Arceus X Executor** **Offical**\](<https://www.mediafire.com/file/esxpnu59odtrwfd/Roblox_Arceus_X_NEO_1.4.2.apk/file>)]
+$endif
+$removeComponent[Executor1]
